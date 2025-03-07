@@ -33,7 +33,6 @@ int main() {
                 printf("Ingrese la cantidad a vender: ");
                 scanf("%d", &cantidad);
                 
-                // Completar: Verificar si hay suficiente stock antes de vender
                 
                 break;
 
@@ -41,7 +40,6 @@ int main() {
                 printf("Ingrese la cantidad a agregar al stock: ");
                 scanf("%d", &cantidad);
                 
-                // Completar: Sumar cantidad al stock
                 
                 break;
 
